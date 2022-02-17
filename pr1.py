@@ -2879,7 +2879,7 @@ try:
         await ctx.send(embed=embed, delete_after=30)
 
 
-    bot.run("OTEyMDE3NDUwMzkwOTM3Njkw.YZp0cA.VwOHpOS0CJcInim-VBEbLZJlzKM")
+    bot.run("OTEyMDE3NDUwMzkwOTM3Njkw.YZp0cA.PVUkTvQxAhrNISbXNj9B75STQvM")
 except:
     ...
 finally:
